@@ -286,7 +286,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1"><vh>@clean simplest2.html</vh>
+<v t="amd.20150915211341.1" a="E"><vh>@clean simplest2.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
@@ -2422,7 +2422,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
     &lt;h2&gt;心得與評分&lt;/h2&gt;
     &lt;p&gt;大二的第一份作業，做了好幾次才成功，萬事起頭難，因為一開始找不到作業的方向，根本摸不著頭緒，如果沒有面對失敗的勇氣，就很難一直試下去，上傳成功後，覺得前面的堅持都值得了。面對英文還有程式，我的能力還不足夠，希望能朝這個目標繼續努力學習下去。
     
-    &lt;h2&gt;評分 : 86分&lt;/h2&gt;
+    &lt;h2&gt;評分 : 87分&lt;/h2&gt;
     
     &lt;/a&gt;&lt;/section&gt;
 				
