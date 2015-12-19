@@ -42,6 +42,7 @@
 <v t="40323253.20151104125645.1"><vh>@edit 2015cphww5.md</vh></v>
 <v t="40323253.20151104125646.1"><vh>@edit 2015cphww8.md</vh></v>
 <v t="40323253.20151205172533.1"><vh>@edit 2015cphww11.md</vh></v>
+<v t="leo.20151219225458.1"><vh>@edit 2015cphww12.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
@@ -372,6 +373,21 @@
 </v>
 </v>
 <v t="40323253.20151205172658.17"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151219225527.1"><vh>@clean simplest12.html</vh>
+<v t="leo.20151219225527.2"><vh>檔案說明</vh></v>
+<v t="leo.20151219225527.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151219225527.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151219225527.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151219225527.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151219225527.7"><vh>封面</vh></v>
+<v t="leo.20151219225527.8"><vh>筆記</vh></v>
+<v t="leo.20151219225527.9"><vh>心得與評分</vh></v>
+</v>
+</v>
+<v t="leo.20151219225527.10"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -2754,5 +2770,82 @@ sudo pip3 install IPython[notebook]==3.2.1
     &lt;p&gt;線上教材&lt;/p&gt;
     &lt;p&gt;影音教材&lt;/p&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20151219225527.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151219225527.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151219225527.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151219225527.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151219225527.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151219225527.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151219225527.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151219225527.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
+    &lt;h3&gt;40323253-劉瑜俊-12/06&lt;/h3&gt;	
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151219225527.8">&lt;section id="hw-task-one"&gt;
+    &lt;h3&gt;筆記&lt;/h3&gt;
+    &lt;p&gt;1.下載fix&lt;/p&gt;
+    &lt;p&gt;2.下載leo壓縮檔放置DATA目錄下&lt;/p&gt;
+    &lt;p&gt;3.更改fix資料夾裡的start內為pip install leo-editor-broke-abbrev.zip&lt;/p&gt;
+    &lt;p&gt;4.啟動fix, 將檔案複製到對應位置&lt;/p&gt;
+    &lt;p&gt;5.按下C槽中start執行安裝&lt;/p&gt;&lt;/a&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20151219225527.9">&lt;section&gt;
+    &lt;h2&gt;心得與評分&lt;/h2&gt;
+    &lt;p&gt;練習將電腦教室之leo升級為5.1版本,在C槽中就能快速使用程式。先至網路上下載fix檔案和leo版本檔案,利用SciTE修改fix內容,使fix複製相對應資料,開啟Ana3_2015內start執行安裝,跟著老師上課所拍攝的影片以及講解,能快速的模擬和執行作業。&lt;/p&gt;
+    
+    &lt;h2&gt;評分 :80分&lt;/h2&gt;
+    
+    &lt;/a&gt;&lt;/section&gt;
+				
+</t>
 </tnodes>
 </leo_file>
