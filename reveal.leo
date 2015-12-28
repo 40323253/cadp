@@ -393,13 +393,14 @@
 </v>
 </v>
 </v>
-<v t="leo.20151228103335.1"><vh>@clean simplest15.html</vh>
+<v t="leo.20151228103335.1" a="E"><vh>@clean simplest15.html</vh>
 <v t="leo.20151228103335.2"><vh>檔案說明</vh></v>
 <v t="leo.20151228103335.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151228103335.4" a="E"><vh>body 標註</vh>
 <v t="leo.20151228103335.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151228103335.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20151228103335.7"><vh>封面</vh></v>
+<v t="leo.20151228113133.1"><vh>筆記</vh></v>
 <v t="leo.20151228103335.9"><vh>心得與評分</vh></v>
 </v>
 </v>
@@ -407,7 +408,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151228112831.1" a="E"><vh>@clean simplest16.html</vh>
+<v t="leo.20151228112831.1"><vh>@clean simplest16.html</vh>
 <v t="leo.20151228112831.2"><vh>檔案說明</vh></v>
 <v t="leo.20151228112831.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151228112831.4" a="E"><vh>body 標註</vh>
@@ -3010,6 +3011,15 @@ sudo pip3 install IPython[notebook]==3.2.1
     });
 &lt;/script&gt;
 	
+</t>
+<t tx="leo.20151228113133.1">&lt;section id="hw-task-one"&gt;
+    &lt;h3&gt;筆記&lt;/h3&gt;
+    &lt;p&gt;1.請各組員利用學校配發的 Gmail 帳號, 至 https://www.onshape.com 申請免費帳號.&lt;/p&gt;
+    &lt;p&gt;2.請依照 BOM 編號, 將零件分配給組員, 並分別利用 public 模式完成零件繪製, 協同 Workspace 命名: b_g1_nutcracker 表示為學號 乙班同學第1組所建立的 nutcracker 協同專案 (其餘各組依此類推各組專案名稱).&lt;/p&gt;
+    &lt;p&gt;3.完成後, 請利用 Share 功能將組員納為協同人員, 各組員依照分配完成各零件繪圖與 Nutcracker 機構組立.&lt;/p&gt;
+    &lt;p&gt;4.完成後, 請利用 Share 功能將組員納為協同人員, 各組員依照分配完成各零件繪圖與 Nutcracker 機構組立.&lt;/p&gt;
+&lt;/section&gt;
+
 </t>
 </tnodes>
 </leo_file>
