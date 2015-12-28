@@ -36,15 +36,15 @@
 </v>
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
-<v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
+<v t="amd.20150919114010.1"><vh>@path pelican\content</vh>
 <v t="40323253.20151104125642.1"><vh>@edit 2015cphww2.md</vh></v>
 <v t="40323253.20151104125644.1"><vh>@edit 2015cphww4.md</vh></v>
 <v t="40323253.20151104125645.1"><vh>@edit 2015cphww5.md</vh></v>
 <v t="40323253.20151104125646.1"><vh>@edit 2015cphww8.md</vh></v>
 <v t="40323253.20151205172533.1"><vh>@edit 2015cphww11.md</vh></v>
 <v t="leo.20151219225458.1"><vh>@edit 2015cphww12.md</vh></v>
-<v t="leo.20151228103321.1"><vh>@edit 2015cphww15.md</vh></v>
-<v t="leo.20151228112824.1"><vh>@edit 2015cphww16.md</vh></v>
+<v t="leo.20151228103321.1"><vh>@edit 2015cphww14.md</vh></v>
+<v t="leo.20151228112824.1"><vh>@edit 2015cphww15.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
@@ -393,7 +393,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151228103335.1" a="E"><vh>@clean simplest15.html</vh>
+<v t="leo.20151228103335.1"><vh>@clean simplest14.html</vh>
 <v t="leo.20151228103335.2"><vh>檔案說明</vh></v>
 <v t="leo.20151228103335.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151228103335.4" a="E"><vh>body 標註</vh>
@@ -408,13 +408,14 @@
 </v>
 </v>
 </v>
-<v t="leo.20151228112831.1"><vh>@clean simplest16.html</vh>
+<v t="leo.20151228112831.1"><vh>@clean simplest15.html</vh>
 <v t="leo.20151228112831.2"><vh>檔案說明</vh></v>
 <v t="leo.20151228112831.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151228112831.4" a="E"><vh>body 標註</vh>
 <v t="leo.20151228112831.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151228112831.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20151228112831.7"><vh>封面</vh></v>
+<v t="leo.20151228173826.1"><vh>筆記</vh></v>
 <v t="leo.20151228112831.8"><vh>心得與評分</vh></v>
 </v>
 </v>
@@ -2996,7 +2997,7 @@ sudo pip3 install IPython[notebook]==3.2.1
 </t>
 <t tx="leo.20151228112831.8">&lt;section&gt;
     &lt;h2&gt;心得與評分&lt;/h2&gt;
-    &lt;p&gt;&lt;/p&gt;
+    &lt;p&gt;組立心得&lt;/p&gt;
     
     &lt;h2&gt;評分 :80分&lt;/h2&gt;
     
@@ -3018,6 +3019,18 @@ sudo pip3 install IPython[notebook]==3.2.1
     &lt;p&gt;2.請依照 BOM 編號, 將零件分配給組員, 並分別利用 public 模式完成零件繪製, 協同 Workspace 命名: b_g1_nutcracker 表示為學號 乙班同學第1組所建立的 nutcracker 協同專案 (其餘各組依此類推各組專案名稱).&lt;/p&gt;
     &lt;p&gt;3.完成後, 請利用 Share 功能將組員納為協同人員, 各組員依照分配完成各零件繪圖與 Nutcracker 機構組立.&lt;/p&gt;
     &lt;p&gt;4.完成後, 請利用 Share 功能將組員納為協同人員, 各組員依照分配完成各零件繪圖與 Nutcracker 機構組立.&lt;/p&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20151228173826.1">&lt;section id="hw-task-one"&gt;
+    &lt;h3&gt;大學生的風度與職志&lt;/h3&gt;
+    &lt;p&gt;體魄康強, 精神活潑, 舉止端莊, 人格健全, 便是大學生的風度 .&lt;/p&gt;
+    &lt;p&gt;不倦的追求真理, 熱烈的愛護國家, 積極的造福人類, 才是大學生的職志 .&lt;/p&gt;
+    
+    &lt;h3&gt;大學教育應做好如下三個方面&lt;/h3&gt;
+    &lt;p&gt;第一，堅守人文精神。&lt;/p&gt;
+    &lt;p&gt;第二，直面生存困境。&lt;/p&gt;
+    &lt;p&gt;第三，讀好書做好人。&lt;/p&gt;
 &lt;/section&gt;
 
 </t>
