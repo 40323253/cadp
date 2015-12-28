@@ -399,7 +399,6 @@
 <v t="leo.20151228103335.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151228103335.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20151228103335.7"><vh>封面</vh></v>
-<v t="leo.20151228103335.8"><vh>筆記</vh></v>
 <v t="leo.20151228103335.9"><vh>心得與評分</vh></v>
 </v>
 </v>
@@ -2921,15 +2920,9 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;/section&gt;
 	
 </t>
-<t tx="leo.20151228103335.8">&lt;section id="hw-task-one"&gt;
-    &lt;h3&gt;筆記&lt;/h3&gt;
-    &lt;p&gt;123&lt;/p&gt;
-&lt;/section&gt;
-
-</t>
 <t tx="leo.20151228103335.9">&lt;section&gt;
     &lt;h2&gt;心得與評分&lt;/h2&gt;
-    &lt;p&gt;&lt;/p&gt;
+    &lt;p&gt;利用Onshape在雲端上面繪圖,這個網頁使用起來非常方便,沒有安裝程式上面的問題,故只要能連上網頁即可畫圖,未來在高鐵上也可能使用平板或手機與組員溝通及設計,這週我熟悉了這個網頁的繪圖模式,繪畫出了Nutcracker 機構中的AD JUSTER及AD JUSTER_BASE兩個零件,方便在下週與組員一起完成組立工作。&lt;/p&gt;
     
     &lt;h2&gt;評分 :80分&lt;/h2&gt;
     
