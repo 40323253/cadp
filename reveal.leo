@@ -409,7 +409,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151228112831.1" a="E"><vh>@clean simplest15.html</vh>
+<v t="leo.20151228112831.1"><vh>@clean simplest15.html</vh>
 <v t="leo.20151228112831.2"><vh>檔案說明</vh></v>
 <v t="leo.20151228112831.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151228112831.4" a="E"><vh>body 標註</vh>
