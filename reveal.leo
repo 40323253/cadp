@@ -409,7 +409,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151228112831.1"><vh>@clean simplest15.html</vh>
+<v t="leo.20151228112831.1" a="E"><vh>@clean simplest15.html</vh>
 <v t="leo.20151228112831.2"><vh>檔案說明</vh></v>
 <v t="leo.20151228112831.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151228112831.4" a="E"><vh>body 標註</vh>
@@ -3012,7 +3012,7 @@ sudo pip3 install IPython[notebook]==3.2.1
 </t>
 <t tx="leo.20151228112831.8">&lt;section&gt;
     &lt;h2&gt;心得與評分&lt;/h2&gt;
-    &lt;p&gt;組立心得&lt;/p&gt;
+    &lt;p&gt;這週將組員們在Onshape畫好的零件拿來組立,作法與Creo大同小異,但能和組員們一起組裝,且有聊天室功能,覺得這個網站使用起來更人性化了,相信對未來的設計課程能夠大大提升效率。&lt;/p&gt;
     
     &lt;h2&gt;評分 :80分&lt;/h2&gt;
     
@@ -3109,7 +3109,7 @@ sudo pip3 install IPython[notebook]==3.2.1
 </t>
 <t tx="leo.20151228175302.9">&lt;section&gt;
     &lt;h2&gt;心得與評分&lt;/h2&gt;
-    &lt;p&gt;期末報告&lt;/p&gt;
+    &lt;p&gt;這學期的電腦輔助設計與實習課程接觸到了兩個繪圖程式和一個繪圖網站,以分組的模式讓隊友們能各自安排工作,並且互相討論及學習,在solvespace和Creo之後,我們接觸了一個Onshape的繪圖網站,操作相當方便,功能也足夠我們課程使用,這學期下來讓我們漸漸的進入協同課程,為下學期的課程做基礎,希望下學期能夠順利的進行課業,學習到更多東西。&lt;/p&gt;
     
     &lt;h2&gt;評分 :80分&lt;/h2&gt;
     
