@@ -371,8 +371,12 @@
 <v t="40323253.20151205172658.4" a="E"><vh>body 標註</vh>
 <v t="40323253.20151205172658.5" a="E"><vh>div class="reveal"</vh>
 <v t="40323253.20151205172658.6" a="E"><vh>div class="slides"</vh>
-<v t="40323253.20151205172658.7"><vh>封面</vh></v>
-<v t="40323253.20151205172658.16"><vh>心得與評分</vh></v>
+<v t="leo.20160103193001.1" a="E"><vh>封面</vh>
+<v t="leo.20160103193001.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160103193010.1" a="E"><vh>自評</vh>
+<v t="leo.20160103193010.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
 </v>
 </v>
 <v t="40323253.20151205172658.17"><vh>script</vh></v>
@@ -385,9 +389,15 @@
 <v t="leo.20151219225527.4" a="E"><vh>body 標註</vh>
 <v t="leo.20151219225527.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151219225527.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151219225527.7"><vh>封面</vh></v>
-<v t="leo.20151219225527.8"><vh>筆記</vh></v>
-<v t="leo.20151219225527.9"><vh>心得與評分</vh></v>
+<v t="leo.20160103193037.1" a="E"><vh>封面</vh>
+<v t="leo.20160103193037.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160103193044.1" a="E"><vh>筆記</vh>
+<v t="leo.20160103193044.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160103193049.1" a="E"><vh>自評</vh>
+<v t="leo.20160103193049.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
 </v>
 </v>
 <v t="leo.20151219225527.10"><vh>script</vh></v>
@@ -400,9 +410,15 @@
 <v t="leo.20151228103335.4" a="E"><vh>body 標註</vh>
 <v t="leo.20151228103335.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151228103335.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151228103335.7"><vh>封面</vh></v>
-<v t="leo.20151228113133.1"><vh>筆記</vh></v>
-<v t="leo.20151228103335.9"><vh>心得與評分</vh></v>
+<v t="leo.20160103193111.1" a="E"><vh>封面</vh>
+<v t="leo.20160103193111.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160103193117.1" a="E"><vh>筆記</vh>
+<v t="leo.20160103193117.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160103193122.1" a="E"><vh>自評</vh>
+<v t="leo.20160103193122.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
 </v>
 </v>
 <v t="leo.20151228103335.10"><vh>script</vh></v>
@@ -415,9 +431,15 @@
 <v t="leo.20151228112831.4" a="E"><vh>body 標註</vh>
 <v t="leo.20151228112831.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151228112831.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151228112831.7"><vh>封面</vh></v>
-<v t="leo.20151228173826.1"><vh>筆記</vh></v>
-<v t="leo.20151228112831.8"><vh>心得與評分</vh></v>
+<v t="leo.20160103193145.1" a="E"><vh>封面</vh>
+<v t="leo.20160103193145.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160103193150.1" a="E"><vh>筆記</vh>
+<v t="leo.20160103193150.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160103193156.1" a="E"><vh>自評</vh>
+<v t="leo.20160103193156.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
 </v>
 </v>
 <v t="leo.20151228112831.9"><vh>script</vh></v>
@@ -430,8 +452,12 @@
 <v t="leo.20151228175302.4" a="E"><vh>body 標註</vh>
 <v t="leo.20151228175302.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151228175302.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151228175302.7"><vh>封面</vh></v>
-<v t="leo.20151228175302.9"><vh>心得與評分</vh></v>
+<v t="leo.20160103193215.1" a="E"><vh>封面</vh>
+<v t="leo.20160103193215.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160103193221.1" a="E"><vh>自評</vh>
+<v t="leo.20160103193221.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
 </v>
 </v>
 <v t="leo.20151228175302.10"><vh>script</vh></v>
@@ -1007,15 +1033,6 @@ Creo Parametric的用戶界面易於瀏覽特定的主要工具，包含整個�
 @others
 
 </t>
-<t tx="40323253.20151205172658.16">&lt;section&gt;
-    &lt;h2&gt;心得與評分&lt;/h2&gt;
-    &lt;p&gt;這週開始要分組進行作業,我們建立了第四組的分組名單和網誌,為了讓工作更順利,必須每個人都要會使用creo繪圖程式和leo編輯器,希望我能跟著隊友一起完成任務,一起找出問題進而解決,順利為下學期的協同課程打下紮實的基礎!!&lt;/p&gt;
-    
-    &lt;h2&gt;評分 :80分&lt;/h2&gt;
-    
-    &lt;/a&gt;&lt;/section&gt;
-				
-</t>
 <t tx="40323253.20151205172658.17">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -1051,6 +1068,11 @@ Creo Parametric的用戶界面易於瀏覽特定的主要工具，包含整個�
 &lt;/body&gt;
 </t>
 <t tx="40323253.20151205172658.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
@@ -1059,15 +1081,6 @@ Creo Parametric的用戶界面易於瀏覽特定的主要工具，包含整個�
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
-</t>
-<t tx="40323253.20151205172658.7">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
-    &lt;h3&gt;40323253-劉瑜俊-11/23&lt;/h3&gt;	
-&lt;/section&gt;
-	
 </t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
@@ -2857,6 +2870,11 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;/body&gt;
 </t>
 <t tx="leo.20151219225527.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
@@ -2865,34 +2883,6 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
-</t>
-<t tx="leo.20151219225527.7">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
-    &lt;h3&gt;40323253-劉瑜俊-12/06&lt;/h3&gt;	
-&lt;/section&gt;
-	
-</t>
-<t tx="leo.20151219225527.8">&lt;section id="hw-task-one"&gt;
-    &lt;h3&gt;筆記&lt;/h3&gt;
-    &lt;p&gt;1.下載fix&lt;/p&gt;
-    &lt;p&gt;2.下載leo壓縮檔放置DATA目錄下&lt;/p&gt;
-    &lt;p&gt;3.更改fix資料夾裡的start內為pip install leo-editor-broke-abbrev.zip&lt;/p&gt;
-    &lt;p&gt;4.啟動fix, 將檔案複製到對應位置&lt;/p&gt;
-    &lt;p&gt;5.按下C槽中start執行安裝&lt;/p&gt;&lt;/a&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20151219225527.9">&lt;section&gt;
-    &lt;h2&gt;心得與評分&lt;/h2&gt;
-    &lt;p&gt;練習將電腦教室之leo升級為5.1版本,在C槽中就能快速使用程式。先至網路上下載fix檔案和leo版本檔案,利用SciTE修改fix內容,使fix複製相對應資料,開啟Ana3_2015內start執行安裝,跟著老師上課所拍攝的影片以及講解,能快速的模擬和執行作業。&lt;/p&gt;
-    
-    &lt;h2&gt;評分 :80分&lt;/h2&gt;
-    
-    &lt;/a&gt;&lt;/section&gt;
-				
 </t>
 <t tx="leo.20151228103335.1">@language xml
 @tabwidth -4
@@ -2934,6 +2924,11 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;/body&gt;
 </t>
 <t tx="leo.20151228103335.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
@@ -2942,24 +2937,6 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
-</t>
-<t tx="leo.20151228103335.7">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
-    &lt;h3&gt;40323253-劉瑜俊-12/21&lt;/h3&gt;	
-&lt;/section&gt;
-	
-</t>
-<t tx="leo.20151228103335.9">&lt;section&gt;
-    &lt;h2&gt;心得與評分&lt;/h2&gt;
-    &lt;p&gt;利用Onshape在雲端上面繪圖,這個網頁使用起來非常方便,沒有安裝程式上面的問題,故只要能連上網頁即可畫圖,未來在高鐵上也可能使用平板或手機與組員溝通及設計,這週我熟悉了這個網頁的繪圖模式,繪畫出了Nutcracker 機構中的AD JUSTER及AD JUSTER_BASE兩個零件,方便在下週與組員一起完成組立工作。&lt;/p&gt;
-    
-    &lt;h2&gt;評分 :80分&lt;/h2&gt;
-    
-    &lt;/a&gt;&lt;/section&gt;
-				
 </t>
 <t tx="leo.20151228112831.1">@language xml
 @tabwidth -4
@@ -2992,6 +2969,11 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;/body&gt;
 </t>
 <t tx="leo.20151228112831.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
@@ -3001,24 +2983,6 @@ sudo pip3 install IPython[notebook]==3.2.1
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151228112831.7">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
-    &lt;h3&gt;40323253-劉瑜俊-12/28&lt;/h3&gt;	
-&lt;/section&gt;
-	
-</t>
-<t tx="leo.20151228112831.8">&lt;section&gt;
-    &lt;h2&gt;心得與評分&lt;/h2&gt;
-    &lt;p&gt;這週將組員們在Onshape畫好的零件拿來組立,作法與Creo大同小異,但能和組員們一起組裝,且有聊天室功能,覺得這個網站使用起來更人性化了,相信對未來的設計課程能夠大大提升效率。&lt;/p&gt;
-    
-    &lt;h2&gt;評分 :80分&lt;/h2&gt;
-    
-    &lt;/a&gt;&lt;/section&gt;
-				
-</t>
 <t tx="leo.20151228112831.9">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -3027,27 +2991,6 @@ sudo pip3 install IPython[notebook]==3.2.1
     });
 &lt;/script&gt;
 	
-</t>
-<t tx="leo.20151228113133.1">&lt;section id="hw-task-one"&gt;
-    &lt;h3&gt;筆記&lt;/h3&gt;
-    &lt;p&gt;1.請各組員利用學校配發的 Gmail 帳號, 至 https://www.onshape.com 申請免費帳號.&lt;/p&gt;
-    &lt;p&gt;2.請依照 BOM 編號, 將零件分配給組員, 並分別利用 public 模式完成零件繪製, 協同 Workspace 命名: b_g1_nutcracker 表示為學號 乙班同學第1組所建立的 nutcracker 協同專案 (其餘各組依此類推各組專案名稱).&lt;/p&gt;
-    &lt;p&gt;3.完成後, 請利用 Share 功能將組員納為協同人員, 各組員依照分配完成各零件繪圖與 Nutcracker 機構組立.&lt;/p&gt;
-    &lt;p&gt;4.完成後, 請利用 Share 功能將組員納為協同人員, 各組員依照分配完成各零件繪圖與 Nutcracker 機構組立.&lt;/p&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20151228173826.1">&lt;section id="hw-task-one"&gt;
-    &lt;h3&gt;大學生的風度與職志&lt;/h3&gt;
-    &lt;p&gt;體魄康強, 精神活潑, 舉止端莊, 人格健全, 便是大學生的風度 .&lt;/p&gt;
-    &lt;p&gt;不倦的追求真理, 熱烈的愛護國家, 積極的造福人類, 才是大學生的職志 .&lt;/p&gt;
-    
-    &lt;h3&gt;大學教育應做好如下三個方面&lt;/h3&gt;
-    &lt;p&gt;第一，堅守人文精神。&lt;/p&gt;
-    &lt;p&gt;第二，直面生存困境。&lt;/p&gt;
-    &lt;p&gt;第三，讀好書做好人。&lt;/p&gt;
-&lt;/section&gt;
-
 </t>
 <t tx="leo.20151228175302.1">@language xml
 @tabwidth -4
@@ -3089,32 +3032,232 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;/body&gt;
 </t>
 <t tx="leo.20151228175302.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
 &lt;div class="reveal"&gt;
 @others
-&lt;/div&gt;
-</t>
+&lt;/div&gt;</t>
 <t tx="leo.20151228175302.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151228175302.7">&lt;!-- 以下為投影片 --&gt;
+<t tx="leo.20160103193001.1">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
+
+&lt;&lt; header &gt;&gt;
+
+    &lt;section&gt;
     &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
-    &lt;h3&gt;40323253-劉瑜俊-01/04&lt;/h3&gt;	
+    &lt;h3&gt;40323253-劉瑜俊-11/23&lt;/h3&gt;	
+    &lt;/section&gt;
+
 &lt;/section&gt;
 	
 </t>
-<t tx="leo.20151228175302.9">&lt;section&gt;
+<t tx="leo.20160103193001.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt;</t>
+<t tx="leo.20160103193010.1">&lt;&lt; header &gt;&gt;
+
+    &lt;h2&gt;心得與評分&lt;/h2&gt;
+    &lt;p&gt;這週開始要分組進行作業,我們建立了第四組的分組名單和網誌,為了讓工作更順利,必須每個人都要會使用creo繪圖程式和leo編輯器,希望我能跟著隊友一起完成任務,一起找出問題進而解決,順利為下學期的協同課程打下紮實的基礎!!&lt;/p&gt;
+    
+    &lt;h2&gt;評分 :80分&lt;/h2&gt;
+    
+    &lt;/a&gt;
+
+&lt;/section&gt;</t>
+<t tx="leo.20160103193010.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt;</t>
+<t tx="leo.20160103193037.1">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+
+&lt;&lt; header &gt;&gt;
+
+    &lt;section&gt;
+    &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
+    &lt;h3&gt;40323253-劉瑜俊-12/06&lt;/h3&gt;	
+    &lt;/section&gt;
+
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160103193037.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt;</t>
+<t tx="leo.20160103193044.1">&lt;&lt; header &gt;&gt;
+
+    &lt;section&gt;
+    &lt;h3&gt;筆記&lt;/h3&gt;
+    &lt;p&gt;1.下載fix&lt;/p&gt;
+    &lt;p&gt;2.下載leo壓縮檔放置DATA目錄下&lt;/p&gt;
+    &lt;p&gt;3.更改fix資料夾裡的start內為pip install leo-editor-broke-abbrev.zip&lt;/p&gt;
+    &lt;p&gt;4.啟動fix, 將檔案複製到對應位置&lt;/p&gt;
+    &lt;p&gt;5.按下C槽中start執行安裝&lt;/p&gt;&lt;/a&gt;
+    &lt;/section&gt;
+    
+&lt;/section&gt;</t>
+<t tx="leo.20160103193044.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt;</t>
+<t tx="leo.20160103193049.1">&lt;&lt; header &gt;&gt;
+
+
+    &lt;h2&gt;心得與評分&lt;/h2&gt;
+    &lt;p&gt;練習將電腦教室之leo升級為5.1版本,在C槽中就能快速使用程式。先至網路上下載fix檔案和leo版本檔案,利用SciTE修改fix內容,使fix複製相對應資料,開啟Ana3_2015內start執行安裝,跟著老師上課所拍攝的影片以及講解,能快速的模擬和執行作業。&lt;/p&gt;
+    
+    &lt;h2&gt;評分 :80分&lt;/h2&gt;
+    
+&lt;/section&gt;</t>
+<t tx="leo.20160103193049.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt;</t>
+<t tx="leo.20160103193111.1">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+
+&lt;&lt; header &gt;&gt;
+
+    &lt;section&gt;
+    &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
+    &lt;h3&gt;40323253-劉瑜俊-12/21&lt;/h3&gt;	
+    &lt;/section&gt;
+
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160103193111.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt;</t>
+<t tx="leo.20160103193117.1">&lt;&lt; header &gt;&gt;
+
+    &lt;h3&gt;筆記&lt;/h3&gt;
+    &lt;p&gt;1.請各組員利用學校配發的 Gmail 帳號, 至 https://www.onshape.com 申請免費帳號.&lt;/p&gt;
+    &lt;p&gt;2.請依照 BOM 編號, 將零件分配給組員, 並分別利用 public 模式完成零件繪製, 協同 Workspace 命名: b_g1_nutcracker 表示為學號 乙班同學第1組所建立的 nutcracker 協同專案 (其餘各組依此類推各組專案名稱).&lt;/p&gt;
+    &lt;p&gt;3.完成後, 請利用 Share 功能將組員納為協同人員, 各組員依照分配完成各零件繪圖與 Nutcracker 機構組立.&lt;/p&gt;
+    &lt;p&gt;4.完成後, 請利用 Share 功能將組員納為協同人員, 各組員依照分配完成各零件繪圖與 Nutcracker 機構組立.&lt;/p&gt;
+    
+&lt;/section&gt;</t>
+<t tx="leo.20160103193117.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt;</t>
+<t tx="leo.20160103193122.1">&lt;&lt; header &gt;&gt;
+
+
+    &lt;h2&gt;心得與評分&lt;/h2&gt;
+    &lt;p&gt;利用Onshape在雲端上面繪圖,這個網頁使用起來非常方便,沒有安裝程式上面的問題,故只要能連上網頁即可畫圖,未來在高鐵上也可能使用平板或手機與組員溝通及設計,這週我熟悉了這個網頁的繪圖模式,繪畫出了Nutcracker 機構中的AD JUSTER及AD JUSTER_BASE兩個零件,方便在下週與組員一起完成組立工作。&lt;/p&gt;
+    
+    &lt;h2&gt;評分 :80分&lt;/h2&gt;
+    
+&lt;/section&gt;</t>
+<t tx="leo.20160103193122.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt;</t>
+<t tx="leo.20160103193145.1">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+
+&lt;&lt; header &gt;&gt;
+
+    &lt;section&gt;
+    &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
+    &lt;h3&gt;40323253-劉瑜俊-12/28&lt;/h3&gt;	
+    &lt;/section&gt;
+
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160103193145.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt;</t>
+<t tx="leo.20160103193150.1">&lt;&lt; header &gt;&gt;
+
+    &lt;h3&gt;大學生的風度與職志&lt;/h3&gt;
+    &lt;p&gt;體魄康強, 精神活潑, 舉止端莊, 人格健全, 便是大學生的風度 .&lt;/p&gt;
+    &lt;p&gt;不倦的追求真理, 熱烈的愛護國家, 積極的造福人類, 才是大學生的職志 .&lt;/p&gt;
+    
+    &lt;h3&gt;大學教育應做好如下三個方面&lt;/h3&gt;
+    &lt;p&gt;第一，堅守人文精神。&lt;/p&gt;
+    &lt;p&gt;第二，直面生存困境。&lt;/p&gt;
+    &lt;p&gt;第三，讀好書做好人。&lt;/p&gt;
+    
+&lt;/section&gt;</t>
+<t tx="leo.20160103193150.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt;</t>
+<t tx="leo.20160103193156.1">&lt;&lt; header &gt;&gt;
+
+
+    &lt;h2&gt;心得與評分&lt;/h2&gt;
+    &lt;p&gt;這週將組員們在Onshape畫好的零件拿來組立,作法與Creo大同小異,但能和組員們一起組裝,且有聊天室功能,覺得這個網站使用起來更人性化了,相信對未來的設計課程能夠大大提升效率。&lt;/p&gt;
+    
+    &lt;h2&gt;評分 :80分&lt;/h2&gt;
+    
+&lt;/section&gt;</t>
+<t tx="leo.20160103193156.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt;</t>
+<t tx="leo.20160103193215.1">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+
+&lt;&lt; header &gt;&gt;
+
+    &lt;section&gt;
+    &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
+    &lt;h3&gt;40323253-劉瑜俊-01/04&lt;/h3&gt;	
+    &lt;/section&gt;
+
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160103193215.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt;</t>
+<t tx="leo.20160103193221.1">&lt;&lt; header &gt;&gt;
+
+
     &lt;h2&gt;心得與評分&lt;/h2&gt;
     &lt;p&gt;這學期的電腦輔助設計與實習課程接觸到了兩個繪圖程式和一個繪圖網站,以分組的模式讓隊友們能各自安排工作,並且互相討論及學習,在solvespace和Creo之後,我們接觸了一個Onshape的繪圖網站,操作相當方便,功能也足夠我們課程使用,這學期下來讓我們漸漸的進入協同課程,為下學期的課程做基礎,希望下學期能夠順利的進行課業,學習到更多東西。&lt;/p&gt;
     
     &lt;h2&gt;評分 :80分&lt;/h2&gt;
     
-    &lt;/a&gt;&lt;/section&gt;
-				
-</t>
+&lt;/section&gt;</t>
+<t tx="leo.20160103193221.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt;</t>
 </tnodes>
 </leo_file>

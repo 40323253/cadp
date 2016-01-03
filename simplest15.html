@@ -18,18 +18,37 @@
 </head>
 <body>
 <!-- 將整個投影片包在 "reveal" class 中 -->
+
+<!-- 出現在每一頁的 header 格式 -->
+
+<header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"></header>
+
 <div class="reveal">
 <!-- 將所有投影片包在 "slides" class 中 -->
 <div class="slides">
 <!-- 以下為投影片 -->
 <!-- 每一個 section 都代表一張投影片,  -->
 <!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
-<section>
+
+<section data-state="header1">
+<style>.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }</style>
+
+    <section>
     <h2>電腦輔助設計與實習</h2>
     <h3>40323253-劉瑜俊-12/28</h3>	
+    </section>
+
 </section>
 	
-<section id="hw-task-one">
+<section data-state="header1">
+<style>.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }</style>
+
     <h3>大學生的風度與職志</h3>
     <p>體魄康強, 精神活潑, 舉止端莊, 人格健全, 便是大學生的風度 .</p>
     <p>不倦的追求真理, 熱烈的愛護國家, 積極的造福人類, 才是大學生的職志 .</p>
@@ -38,16 +57,21 @@
     <p>第一，堅守人文精神。</p>
     <p>第二，直面生存困境。</p>
     <p>第三，讀好書做好人。</p>
+    
 </section>
+<section data-state="header1">
+<style>.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }</style>
 
-<section>
+
     <h2>心得與評分</h2>
     <p>這週將組員們在Onshape畫好的零件拿來組立,作法與Creo大同小異,但能和組員們一起組裝,且有聊天室功能,覺得這個網站使用起來更人性化了,相信對未來的設計課程能夠大大提升效率。</p>
     
     <h2>評分 :80分</h2>
     
-    </a></section>
-				
+</section>
 </div>
 </div>
 <script src="lib/js/head.min.js"></script>
